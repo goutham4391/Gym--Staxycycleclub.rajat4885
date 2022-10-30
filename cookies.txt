@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.staxcycleclub.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1667038677|7X1B6T0R-F_K
+www.staxcycleclub.com	TRUE	/	FALSE	1999999999	hs	-681902487
+www.staxcycleclub.com	TRUE	/	FALSE	1999999999	svSession	49d3c7810f5f09a18993567da1ba7bfb8655066423fe2fe4739f2c1793a3097c4ec838d292445a0d891070d4d3b1fb3a1e60994d53964e647acf431e4f798bcd9440cf0e1da91904c1ba017feb6bed0f8ab5114552f48b1d91c1d526692829d881f80d52aee5eea3780d268b64ced71a9d951332a668619e17358e5fe40326c4a4e7123cc5dee102baa387323dfa6b94
+www.staxcycleclub.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.staxcycleclub.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly_g
+
